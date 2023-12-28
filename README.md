@@ -4,7 +4,7 @@ This package allows you to pick an image from the camera or from your gallery us
 
 ## Features:
 
--The first step is to give permission to access your device's camera and gallery.
+- The first step is to give permission to access your device's camera and gallery.
 - We can easily click the image and set it to wherever we wish to use it, just as we can do with the gallery.
 
 ## Usage:
